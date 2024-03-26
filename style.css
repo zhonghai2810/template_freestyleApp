@@ -1,0 +1,18 @@
+/* This is the CSS file for styling the web application */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+textarea {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+button {
+    margin-top: 10px;
+}
